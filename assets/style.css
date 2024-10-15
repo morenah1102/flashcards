@@ -24,6 +24,19 @@ body{
     text-align: center;
     font-size: 0.6rem;
     margin-top: 0.5rem;
+    O que é JavaScript?
+    
+    o JavaScript é uma linguagem de programação
+    
+    Programação
+    O que é CSS?
+    
+    o CSS é uma linguagem de estilização
+    
+    Programação
+    O que é JavaScript?
+    
+    o JavaScript é uma linguagem de programação
     }
     #container{
     display: flex;
@@ -73,7 +86,20 @@ body{
     width: 100%;
     }
     .cartao__conteudo__resposta{
-    transform: rotateY(180deg);
+    transform: rotateY(180de
+    O que é JavaScript?
+    
+    o JavaScript é uma linguagem de programação
+    
+    Programação
+    O que é CSS?
+    
+    o CSS é uma linguagem de estilização
+    
+    Programação
+    O que é JavaScript?
+    
+    o JavaScript é uma linguagem de programaçãog);
     }
     .cartao__conteudo p {
     margin-top: 1rem;
