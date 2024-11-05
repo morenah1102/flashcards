@@ -9,6 +9,8 @@ body {
 background: url(img/bg-desktop-red.webp);
 font-family: Grandstander;
 }
+.cartao__conteudo h3 {
+}
 .cartao__conteudo {
 background-color: var(--card-front-color);
 text-align: center;
